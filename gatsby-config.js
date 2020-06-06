@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/gedonism",
+  pathPrefix: "/website",
   plugins: [
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
