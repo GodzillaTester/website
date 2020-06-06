@@ -4,7 +4,7 @@ module.exports = {
     description: `культура гедонизма сонное царство интро баюн аутро`,
     author: `shartzzz`,
   },
-  pathPrefix: "/gedonism",
+  pathPrefix: "/website",
   plugins: [
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
